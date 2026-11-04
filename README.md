@@ -2,7 +2,7 @@
 
 Retrieval-augmented generation: retrievers and indexes for LLMs, RAG pipelines, GraphRAG, agentic and multimodal RAG, evaluation, robustness and security.
 
-**1,077 papers with code** out of 22,546 indexed · updated **November 03, 2026** · **[Browse and search all papers →](https://mtuann.github.io/papers/?topic=rag)**
+**1,077 papers with code** out of 22,546 indexed · updated **November 04, 2026** · **[Browse and search all papers →](https://mtuann.github.io/papers/?topic=rag)**
 
 **More lists:** [LLM Serving](https://github.com/mtuann/llm-serving-papers) · [Agent CDN](https://github.com/mtuann/agent-cdn-papers) · [Backdoor Learning](https://github.com/mtuann/backdoor-ai-resources) · [Machine Unlearning](https://github.com/mtuann/machine-unlearning-papers) · [Federated Learning](https://github.com/mtuann/federated-learning-updated-papers)
 
